@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sammwyy/coffeelatte/master/docs/coffee.png" height="64px">
   <h1 align="center">CoffeeLatte</h1>
-  <span align="center">
+  <p align="center">
     <b>Render engine with Embeded JS, layout and components support.</b>
-  </span>
+  </p>
 </p>
 
 ### ☕ About
