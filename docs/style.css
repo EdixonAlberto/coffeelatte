@@ -107,8 +107,25 @@ a:visited {
     font-weight: bold;
 }
 
+.side {
+    position: fixed;
+    left: 10%;
+    height: 50vh;
+    padding-right: 25px;
+    border-radius: 15px;
+    background-color: #222222;
+    color: #ffffffed;
+}
+
+@media screen and (min-width: 1920px){
+    .side {
+        left: 16%;
+        height: 38vh;
+    }
+}
+
 .content, .side {
-    display: inline-block
+    display: inline-block;
 }
 
 .content {
@@ -124,7 +141,7 @@ pre {
 }
 
 .spaced {
-    margin-top: 60px;
+    padding-top: 60px;
 }
 
 .color-1 {
